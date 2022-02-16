@@ -1,1 +1,1 @@
-# cmpe172-liuliu-09-17
+# CMPE 172 Git Repo
